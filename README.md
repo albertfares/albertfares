@@ -1,6 +1,6 @@
 # 💫 About Me:
 Currently in my 1st year of Master's in Computer Science with a specialisation in Software Engineering at EPFL
-
+albertfares.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/albertfares) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/albertfares) 
